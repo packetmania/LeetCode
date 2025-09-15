@@ -91,6 +91,8 @@
 - Review solutions and optimize for better time/space complexity
 - Use the tips column as hints before looking at solutions
 - Track your progress using the checkbox column
+- Set a daily or weekly goal for problem-solving
+- Revisit problems after a few days to reinforce learning
 
 ## References
 - [LeetCode 75 Study Plan](https://leetcode.com/study-plan/leetcode-75/)
