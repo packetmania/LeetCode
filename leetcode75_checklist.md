@@ -87,7 +87,7 @@
 
 ## Study Tips
 - Focus on understanding patterns within each group
-- Practice similar problems after completing each section
+- Summarize after completing each section
 - Review solutions and optimize for better time/space complexity
 - Use the tips column as hints before looking at solutions
 - Track your progress using the checkbox column
