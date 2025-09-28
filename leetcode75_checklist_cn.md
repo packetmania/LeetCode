@@ -1,7 +1,7 @@
 # LeetCode 75 学习计划清单
 
 | # | 题号 | 标题 | 分组 | 标签 | 提示 | 难度 | 完成 |
-|---|-------------|-------|-------|------|------|------------|------|
+|---|----|-------|-------|------|------|----|----|
 | 1 | [1768](https://leetcode.cn/problems/merge-strings-alternately/) | 交替合并字符串 | 数组/字符串 | 双指针, 字符串 | 使用两个指针遍历两个字符串 | 简单 | ☐ |
 | 2 | [1071](https://leetcode.cn/problems/greatest-common-divisor-of-strings/) | 字符串的最大公因子 | 数组/字符串 | 字符串, 数学 | 使用字符串拼接和最大公因子思想 | 简单 | ☐ |
 | 3 | [1431](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/) | 拥有最多糖果的孩子 | 数组/字符串 | 数组, 贪心 | 先找最大糖果数，再遍历每个孩子 | 简单 | ☐ |

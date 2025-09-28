@@ -1,7 +1,7 @@
 # LeetCode 75 Study Plan Checklist
 
 | # | Problem No. | Title | Group | Tags | Tips | Difficulty | Done |
-|---|-------------|-------|-------|------|------|------------|------|
+|---|------|-------|-------|------|------|-----|----|
 | 1 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | Merge Strings Alternately | Array/String | Two Pointers, String | Use two pointers to iterate through both strings | Easy | ☐ |
 | 2 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Greatest Common Divisor of Strings | Array/String | String, Math | Use GCD concept with string concatenation | Easy | ☐ |
 | 3 | [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Kids With the Greatest Number of Candies | Array/String | Array, Greedy | Find max candies first, then check each kid | Easy | ☐ |
