@@ -81,8 +81,8 @@
 ## Progress Tracking
 - **Total Problems:** 75
 - **Completed:** 0/75
-- **Easy:** 16 problems
-- **Medium:** 59 problems  
+- **Easy:** 22 problems
+- **Medium:** 53 problems  
 - **Hard:** 0 problems
 
 ## Study Tips
