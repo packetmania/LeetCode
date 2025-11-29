@@ -36,4 +36,4 @@ int pathSum(struct TreeNode* root, int targetSum) {
 
 // DFS with prefix sum and dual recursions.
 // Time complexity: O(N^2)
-// Space complexity: O(N)
+// Space complexity: O(H) where H is the height of the tree (due to recursion stack)

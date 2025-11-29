@@ -8,6 +8,17 @@ int minFlips(int a, int b, int c){
         bit_a = a & mask;
         bit_b = b & mask;
         bit_c = c & mask;
+        /*----------------------
+            abit bbit cbit flips
+            0    0    0    0
+            0    0    1    1
+            0    1    0    1
+            0    1    1    0
+            1    0    0    1
+            1    0    1    0
+            1    1    0    2
+            1    1    1    0
+        -----------------------*/
         if ((bit_a | bit_b) != bit_c) {
             if ((bit_a > 0) && (bit_b > 0)) {
                 flips += 2;
